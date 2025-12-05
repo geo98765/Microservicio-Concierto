@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../api-gateway"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../eureka-server"
+		},
+		{
+			"path": "../../../../graphql-profile-service"
+		},
+		{
+			"path": "../../../../user-service"
+		}
+	]
+}
